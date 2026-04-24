@@ -18,6 +18,8 @@ Welcome to My GitHub Profile!
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" />
 </p>
 
+Power BI | SQL Server | Python | Excel
+
 <!---
 lalith-balasubramaniam/lalith-balasubramaniam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
