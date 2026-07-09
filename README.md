@@ -1,11 +1,14 @@
 Welcome to My GitHub Profile!
 
+👋 Hi, I'm Lalith Vignesh B, a Lead Data Analyst with 12+ years of experience in Business Intelligence, Data Analytics, Cloud Analytics and Data Engineering.
 
-- 👋 Hi, I’m Lalith Vignesh B, a Lead Data Analyst with 11+ years of experience in business intelligence, analytics, and reporting.
-- 📊 Experienced in analysing data across operations, finance, and logistics domains, with a strong focus on building Power BI dashboards, optimising SQL queries, and delivering actionable business insights.
-- 🚀 Proven track record of delivering 60+ dashboards, automating reporting workflows, and improving data-driven decision-making through scalable BI solutions.
-- 🌱 Continuously enhancing my skills in data modelling, ETL processes, and advanced analytics, with hands-on experience in Python and working with multi-source data environments.
-- 🤝 Open to opportunities and collaborations in Business Intelligence, Data Analytics, and Reporting roles.
+📊 Experienced in designing scalable analytics solutions across healthcare, financial services and logistics, with expertise in Power BI, SQL, Snowflake, Microsoft Azure, ETL/ELT pipelines and data modelling.
+
+🚀 Proven track record of delivering 60+ enterprise dashboards, building analytical datasets, automating reporting workflows and enabling data-driven decision-making through scalable Business Intelligence solutions.
+
+🌱 Continuously expanding my expertise in Snowflake, Microsoft Azure, Data Engineering, ETL/ELT, Python and Cloud Analytics, while building modern analytics solutions using enterprise data platforms.
+
+🤝 Open to opportunities and collaborations in Lead Data Analytics, Business Intelligence, Analytics Engineering, Snowflake and Data Engineering roles.
 - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalith-vb/)
 
 
